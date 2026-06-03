@@ -2,7 +2,7 @@
 
 ## Project Name
 
-**Kaya Logistics Ecosystem**
+**Kaya**
 
 ---
 
